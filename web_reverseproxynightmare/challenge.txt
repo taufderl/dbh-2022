@@ -1,0 +1,7 @@
+Schaffst du es an der Beschränkung vorbeizukommen?
+
+Dies ist eine dynamische Challenge.
+
+Starte die Challenge mit dem Kommand "-challenge start" in dem Channel #commands und folge den Anweisungen, um die Challenge "web01-reverseproxynightmare" zu starten.
+
+DYNAMISCH: -challenge start --> web01-reverseproxynightmare
