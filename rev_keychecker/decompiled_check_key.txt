@@ -1,0 +1,61 @@
+
+undefined8 check_key(char *param_1)
+
+{
+  undefined8 uVar1;
+  
+  if (param_1[4] == '-') {
+    if (param_1[9] == '-') {
+      if (param_1[0xf] == '-') {
+        if (*param_1 == param_1[7]) {
+          if (param_1[0xc] == param_1[8]) {
+            if (param_1[3] == 'M') {
+              if (param_1[0xc] == 'G') {
+                if (param_1[0x12] == 'Z') {
+                  if ((byte)(param_1[5] ^ param_1[10]) == 1) {
+                    if ((byte)(param_1[1] ^ param_1[7]) == 0x23) {
+                      uVar1 = 1;
+                    }
+                    else {
+                      uVar1 = 0;
+                    }
+                  }
+                  else {
+                    uVar1 = 0;
+                  }
+                }
+                else {
+                  uVar1 = 0;
+                }
+              }
+              else {
+                uVar1 = 0;
+              }
+            }
+            else {
+              uVar1 = 0;
+            }
+          }
+          else {
+            uVar1 = 0;
+          }
+        }
+        else {
+          uVar1 = 0;
+        }
+      }
+      else {
+        uVar1 = 0;
+      }
+    }
+    else {
+      uVar1 = 0;
+    }
+  }
+  else {
+    uVar1 = 0;
+  }
+  return uVar1;
+}
+
+

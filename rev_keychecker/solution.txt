@@ -1,0 +1,7 @@
+nc 20.126.227.19 45420
+Bitte gib Key ein
+Ab0M-30AG-20G00-00Z
+Input: Ab0M-30AG-20G00-00Z
+Korrekte Eingabe.
+DBH{35_d4rf_w13d3r_634ck7_w3rd3n}
+
