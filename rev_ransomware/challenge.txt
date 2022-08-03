@@ -1,0 +1,3 @@
+Datei entschlüsseln und glücklich sein. Sha256: ByeBye.txt:244274474ccf9d3a536a8ab393d2fc 5402398a52fc140019868426e26f2f3ff5
+dbh_rasnomware.exe: f1052159052500bd698028b4b6c713ed9f62efa 76ec54b9465e7552ce6c2415f
+dbh_rasnomware.exe: 9622e8f08ededbc2e1a24f6558af784e4d857467 f74027fe672ba76310a49e44 flag.txt.dbh

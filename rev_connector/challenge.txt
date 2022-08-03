@@ -1,0 +1,3 @@
+Sende den korrekten Key an den Server und erhalten die Flagge.
+
+Sha256: dbh_connector.exe: f8c515c6fd055e2e0a7995c40c82be29870 c549f0ccfb8ff4047afc53d3d3857
