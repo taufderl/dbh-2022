@@ -1,0 +1,2 @@
+serve xxe
+get flag from /etc/passwd
