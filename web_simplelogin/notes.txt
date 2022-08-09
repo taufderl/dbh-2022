@@ -1,0 +1,5 @@
+log in with user/f45mSC4B5yZRzpoTE9
+check cookie
+google cookie --> hash of user name
+set cookie with hash(admin)
+win

