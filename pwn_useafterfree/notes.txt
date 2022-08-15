@@ -1,0 +1,19 @@
+references:
+ https://www.youtube.com/watch?v=YGQAvJ__12k
+
+$ objdump -d ./ich_mag_busse | grep print_
+0000000000401578 <_ZN7Vehicle10print_flagEv>:
+00000000004015be <_ZN7Vehicle11print_statsEv>:
+0000000000401734 <_ZN3Bus11print_statsEv>:
+  40176f:	e8 4a fe ff ff       	call   4015be <_ZN7Vehicle11print_statsEv>
+00000000004017ea <_ZN3LKW11print_statsEv>:
+  401825:	e8 94 fd ff ff       	call   4015be <_ZN7Vehicle11print_statsEv>
+
+
+
+       int seats;
+        string color;
+
+
+int                 4 bytes
+string ("silver")   7 bytes (6+1)

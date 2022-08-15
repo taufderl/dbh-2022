@@ -1,0 +1,14 @@
+- Nikto v2.1.5
+---------------------------------------------------------------------------
++ Target IP:          20.126.227.19
++ Target Hostname:    000990aa23-web-guessmypwd.dbhchallenge.net
++ Target Port:        443
++ Start Time:         2022-08-10 16:57:35 (GMT2)
+---------------------------------------------------------------------------
++ Server: nginx/1.21.6
++ The anti-clickjacking X-Frame-Options header is not present.
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ 6544 items checked: 0 error(s) and 1 item(s) reported on remote host
++ End Time:           2022-08-10 16:59:16 (GMT2) (101 seconds)
+---------------------------------------------------------------------------
++ 1 host(s) tested

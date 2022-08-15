@@ -1,0 +1,24 @@
+
+
+https://000990aa23-web-bankdirect.dbhchallenge.net/bankdirect.svg?color=1
+
+Nutze dein Zertifikat: 1eb267706e34aa7423b280c24efdd775
+
+
+bankdirect.svg
+certs/*.pfx
+  invalid
+  dbh
+  md5
+
+
+https://000990aa23-web-bankdirect.dbhchallenge.net/certs/dbh.pfx
+https://000990aa23-web-bankdirect.dbhchallenge.net/certs/md5.pfx
+md5
+
+remove newline to match md5 hash
+profit
+
+worst challenge ever
+
+DBH{FileCertsAreFun}

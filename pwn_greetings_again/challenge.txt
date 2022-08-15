@@ -1,0 +1,4 @@
+Die Flagge ist hier: /home/dbh/flag.txt. Diesmal gibt es keinen Source-Code aber dafür die genutzte libc :).
+
+Sha256: libc-2.31.so : 73c7c1514bcfc624e277ba3e210e5f3475e60b0e 32820747e79f026c1d0c6fbe
+greetings_again: 1fefad143923158cf0199830abc35db253c141931d36596d8e 0218cc1b15b03d

